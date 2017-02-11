@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "639355758759",
+    "firebase_url": "https://churchguru-project.firebaseio.com",
+    "project_id": "churchguru-project",
+    "storage_bucket": "churchguru-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639355758759:android:acdd6a962686110c",
+        "android_client_info": {
+          "package_name": "com.laotek.mobile.churchguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639355758759-9ko7t5r4b2ogf7bdbau2d6mvkci6jkf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPh5KPCyZ-61MaL2BMdxSMEpQG3CIz3Tg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
